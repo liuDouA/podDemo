@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9D4F90B51FEA0C47002A5B4F /* AviewCtrl.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D4F90B41FEA0C47002A5B4F /* AviewCtrl.m */; };
 		9D59E6031EF374DE000A96C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D59E6021EF374DE000A96C7 /* main.m */; };
 		9D59E6061EF374DE000A96C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D59E6051EF374DE000A96C7 /* AppDelegate.m */; };
 		9D59E6091EF374DE000A96C7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D59E6081EF374DE000A96C7 /* ViewController.m */; };
@@ -16,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9D4F90B31FEA0C47002A5B4F /* AviewCtrl.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AviewCtrl.h; sourceTree = "<group>"; };
+		9D4F90B41FEA0C47002A5B4F /* AviewCtrl.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AviewCtrl.m; sourceTree = "<group>"; };
 		9D59E5FE1EF374DE000A96C7 /* PodDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PodDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D59E6021EF374DE000A96C7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		9D59E6041EF374DE000A96C7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -62,6 +65,8 @@
 				9D59E6051EF374DE000A96C7 /* AppDelegate.m */,
 				9D59E6071EF374DE000A96C7 /* ViewController.h */,
 				9D59E6081EF374DE000A96C7 /* ViewController.m */,
+				9D4F90B31FEA0C47002A5B4F /* AviewCtrl.h */,
+				9D4F90B41FEA0C47002A5B4F /* AviewCtrl.m */,
 				9D59E60A1EF374DE000A96C7 /* Main.storyboard */,
 				9D59E60D1EF374DE000A96C7 /* Assets.xcassets */,
 				9D59E60F1EF374DE000A96C7 /* LaunchScreen.storyboard */,
@@ -154,6 +159,7 @@
 				9D59E6091EF374DE000A96C7 /* ViewController.m in Sources */,
 				9D59E6061EF374DE000A96C7 /* AppDelegate.m in Sources */,
 				9D59E6031EF374DE000A96C7 /* main.m in Sources */,
+				9D4F90B51FEA0C47002A5B4F /* AviewCtrl.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -312,6 +318,7 @@
 				9D59E6171EF374DE000A96C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -7,7 +7,7 @@
 //
 
 #import "AviewCtrl.h"
-
+#import <AFNetworking/AFNetworking.h>
 @interface AviewCtrl ()
 
 @end
